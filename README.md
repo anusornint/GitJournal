@@ -1,3 +1,3 @@
 # GitJournal
 
-My journal
+My journal.
